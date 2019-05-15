@@ -1,0 +1,23 @@
+CSS
+
+p {
+  background-color: lightblue;
+}
+
+div {
+  width: 300px;
+  background-color: #b0e0e6;
+}
+
+<style>
+p {
+  text-align: center;
+  color: red;
+} 
+</style>
+
+div {
+  border: 1px solid black;
+  margin: 25px 50px 75px;
+  background-color: lightblue;
+}
